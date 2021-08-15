@@ -28,6 +28,6 @@
 
 會員專區 (member 分支) - 簡以捷  
 
-線上訂位 (reservation 分支)　－　李蕙伃  
+線上訂位 (reservation 分支) － 李蕙伃  
 
 
